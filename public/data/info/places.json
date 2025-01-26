@@ -1,0 +1,60 @@
+{
+    "adobe": {
+        "logoUrl": "images/places/logo-adobe.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Adobe Inc."}
+        }
+    },
+
+    "apple": {
+        "logoUrl": "images/places/logo-apple.png",
+        "faIcon": "fab fa-apple",
+        "locales": {
+            "en": {"name": "Apple Inc."}
+        }
+    },
+
+    "coursera": {
+        "logoUrl": "images/places/logo-coursera.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "Coursera"}
+        }
+    },
+
+    "forbes": {
+        "logoUrl": null,
+        "faIcon": "fa-solid fa-newspaper",
+        "locales": {
+            "en": {"name": "Forbes"}
+        }
+    },
+
+    "google": {
+        "logoUrl": null,
+        "faIcon": "fab fa-google",
+        "locales": {
+            "en": {"name": "Google"}
+        }
+    },
+
+    "maroc": {
+        "logoUrl": "images/places/ma-flag.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Lycée Akensous - Maroc"},
+            "es": {"name": "Universidad de París"},
+            "fr": {"name": "Université de Paris"},
+            "zh": {"name": "巴黎大学"}
+        }
+    },
+
+    "blagnac": {
+        "logoUrl": "images/places/logo-iut-ut2j.png",
+        "faIcon": "fa fa-house-laptop",
+        "locales": {
+            "en": {"name": "IUT BLAGNAC"}
+        }
+    }
+}

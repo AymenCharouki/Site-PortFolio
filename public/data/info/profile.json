@@ -1,0 +1,70 @@
+{
+    "name": "AYMEN CHAROUKI",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "en": {
+            "credits": "",
+            "role": "Développeur Logiciel"
+        },
+
+        "es": {
+            "credits": "",
+            "role": ""
+        },
+
+        "fr": {
+            "credits": "",
+            "role": ""
+        },
+
+        "zh": {
+            "credits": "",
+            "role": ""
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Av Prof Jean Dausset, TOULOUSE 31300",
+            "valueShort": "Purpan, TOULOUSE 31300",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+
+        "email": {
+            "id": "email",
+            "value": "charoukiaymen@gmail.com",
+            "valueShort": "charoukiaymen@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:charoukiaymen@gmail.com"
+        },
+
+
+        "github": {
+            "id": "github",
+            "value": "@AymenCharouki",
+            "valueShort": "@AymenCharouki",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/AymenCharouki"
+        },
+
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@aymen-charouki",
+            "valueShort": "@aymen-charouki",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://www.linkedin.com/in/aymen-charouki-3843a8258/"
+        },
+
+        "phone": {
+            "id": "phone",
+            "value": "+33 7 83 42 40 00",
+            "valueShort": "+33783424000",
+            "faIcon": "fa-solid fa-phone",
+            "href": "tel:+33783424000"
+        }
+    }
+}
