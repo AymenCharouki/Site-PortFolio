@@ -36,6 +36,15 @@
                 "fr": {"title": "Utilitaires"},
                 "zh": {"title": "工具"}
             }
+        },
+        {
+            "id": "System Admin",
+            "locales": {
+                "en": {"title": "Système Admin"},
+                "es": {"title": "Utilidades"},
+                "fr": {"title": "Utilitaires"},
+                "zh": {"title": "工具"}
+            }
         }
     ],
 
@@ -51,7 +60,7 @@
                 "locales": {
                     "en": {
                         "description": "Dans le cadre de mon projet à l'IUT, j'ai développé un site web dynamique en Symfony pour simuler la gestion des athlètes, disciplines et des pays des Jeux Olympiques. Ce projet m'a permis de maîtriser les concepts de MVC, de gestion de bases de données et de création d'interfaces utilisateur interactives. J'ai également implémenté des fonctionnalités clés comme l'authentification des utilisateurs et la mise à jour en temps réel des résultats. Ce projet a renforcé mes compétences en développement back-end.",
-                        "tags": ["Web", "Symfony"]
+                        "tags": ["Réaliser un développement d'application","Optimiser des applications informatiques","Gérer des données de l'information"]
                     },
                     "es": {
                         "description": "<b>BrainPulse</b> es tu aplicación definitiva de productividad, que te ayuda a gestionar tareas, organizar tu horario y aumentar tu concentración. Con su interfaz elegante y moderna, BrainPulse ofrece funciones como listas de tareas, recordatorios, seguimiento de objetivos y métricas de productividad personalizables. Ya seas un estudiante, un profesional o cualquier persona que busque optimizar su tiempo y eficiencia, BrainPulse es tu aplicación indispensable para lograr más sin sacrificar el equilibrio entre el trabajo y la vida personal.",
@@ -77,7 +86,7 @@
                 "locales": {
                     "en": {
                         "description": "J'ai conçu et développé ce site web portfolio pour présenter mes projets, compétences et expériences de manière claire et moderne. Construit avec Vue.js pour une interface dynamique et réactive, le site met en avant mon travail à travers une navigation intuitive et un design épuré.",
-                        "tags": ["VueJS", "Communication", "PortFolio","JAVASCRIPT"]
+                        "tags": ["Réaliser un développement d'application","Optimiser des applications informatiques"]
                     },
                     "es": {
                         "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
@@ -103,7 +112,7 @@
                 "locales": {
                     "en": {
                         "description": "La Cie les Bricoleuses est une association dédiée aux enfants, proposant des ateliers et spectacles ludiques et éducatifs qui mêlent théâtre, musique et créativité. Leur objectif est d'éveiller l'imagination des enfants et de leur offrir un espace d'expression artistique à travers des activités interactives et amusantes.\nDans le cadre de ce projet, j'ai eu l'opportunité de créer et déployer leur site web, conçu pour être coloré, intuitif et adapté aux familles. En tant que Scrum Master, j'ai piloté le projet en appliquant la méthodologie Agile, en organisant les sprints, en facilitant la communication au sein de l'équipe et en m'assurant que les objectifs étaient atteints dans les délais. Ce projet m'a permis de développer mes compétences en gestion de projet, en développement web et en collaboration, tout en contribuant à la visibilité d'une association qui fait rêver les enfants.",
-                        "tags": ["VueJS", "Client réel", "PortFolio","Django"]
+                        "tags": ["Réaliser un développement d'application","Conduire un projet","Travailler dans une équipe informatique"]
                     },
                     "es": {
                         "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
@@ -129,7 +138,7 @@
                 "locales": {
                     "en": {
                         "description": "Le projet IRIT LocURA consiste en une salle avancée équipée de petits capteurs mobiles qui collectent des données en temps réel. Mon rôle a été de développer une interface web en HTML et JavaScript pour visualiser et analyser les mouvements des capteurs ainsi que d'autres données critiques. J'ai implémenté des fonctionnalités en temps réel pour afficher les données dynamiquement et permettre une interaction fluide avec l'utilisateur. Ce projet m'a permis de renforcer mes compétences en développement front-end, en manipulation de données en temps réel et en création d'interfaces utilisateur réactives.",
-                        "tags": ["JAVASCRIPT", "Recherche", "PortFolio","HTML","CSS"]
+                        "tags": ["Réaliser un développement d'application","Travailler dans une équipe informatique","Optimiser des applications informatiques"]
                     },
                     "es": {
                         "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
@@ -157,7 +166,7 @@
                 "locales": {
                     "en": {
                         "description": "J'ai développé au sein d'une équipeune application simulant les fonctionnalités d'une banque, incluant la gestion des clients (CRUD), la création de comptes, les transactions financières et la génération de relevés.",
-                        "tags": ["Application", "Java","JavaFX"]
+                        "tags": ["Réaliser un développement d'application", "Travailler dans une équipe informatique","Gérer des données de l'information"]
                     },
                     "es": {
                         "description": "<b>SmartCash</b> es tu compañero inteligente para las finanzas personales, permitiéndote tomar el control de tu dinero sin esfuerzo. Con su interfaz fácil de usar, SmartCash proporciona un seguimiento en tiempo real de tus gastos e ingresos, lo que te permite identificar patrones de gasto y tomar decisiones financieras informadas. Mantente al tanto de tu presupuesto, ya que SmartCash ofrece recomendaciones personalizadas para ahorrar dinero y alcanzar tus objetivos financieros sin comprometer tu estilo de vida.",
@@ -183,7 +192,7 @@
                 "locales": {
                     "en": {
                         "description": "J'ai conçu et développé une application dédiée à la gestion des arbitrages lors de compétitions de canoë. Cette application permet de suivre les performances des athlètes, enregistrer les résultats en temps réel et générer des classements automatiques.",
-                        "tags": ["Application", "Java","UML"]
+                        "tags": ["Réaliser un développement d'application", "Optimiser des applications informatiques"]
                     },
                     "es": {
                         "description": "<b>Snappy</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
@@ -209,7 +218,7 @@
                 "locales": {
                     "en": {
                         "description": "Dans le cadre de ce projet en entreprise, j'ai conçu et développé une application qui centralise les commandes clients et les stocke dans une base de données. L'application génère également des fichiers de configuration pour les robots, permettant une intégration fluide entre les systèmes de gestion des commandes et les équipements automatisés. ",
-                        "tags": ["Application", "Csharp", "MySQL", "Excel"]
+                        "tags": ["Réaliser un développement d'application", "Gérer des données de l'information", "Conduire un projet","Optimiser des applications informatiques"]
                     },
                     "es": {
                         "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
@@ -236,7 +245,7 @@
                 "locales": {
                     "en": {
                         "description": "Grâce à cette application, les Field Service Engineers (FSE) peuvent désormais appliquer des mises à jour de manière rapide et fiable, tout en adaptant les configurations spécifiques à chaque environnement client. Ce projet a mis en avant mes compétences en automatisation, gestion de systèmes et développement d'outils métier sur mesure.",
-                        "tags": ["Application", "Entreprise", "Csharp", "Scripts"]
+                        "tags": ["Réaliser un développement d'application", "Gérer des données de l'information", "Conduire un projet","Optimiser des applications informatiques"]
                     },
                     "es": {
                         "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
@@ -262,7 +271,7 @@
                 "locales": {
                     "en": {
                         "description": "Dans ce projet, j'ai recréé le célèbre jeu Flappy Bird en utilisant le moteur de jeu Unity. J'ai implémenté les mécaniques de base du jeu, comme le contrôle de l'oiseau, la génération aléatoire des obstacles et la gestion du score. J'ai également ajouté des fonctionnalités supplémentaires, comme un système de sauvegarde des meilleurs scores et des effets visuels pour améliorer l'expérience utilisateur. Ce projet m'a permis de développer mes compétences en programmation C#, en conception de jeux vidéo et en optimisation des performances. Une expérience ludique et enrichissante qui m'a permis de mieux comprendre les défis du développement de jeux.",
-                        "tags": ["Unity", "Jeu Vidéo", "Csharp", "Modeling"]
+                        "tags": ["Réaliser un développement d'application"]
                     },
                     "es": {
                         "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
@@ -275,6 +284,33 @@
                     "zh": {
                         "description": "在<b>Sweet Scoops</b> 的美味甜品世界中尽情享受吧！这款应用是甜品爱好者的天堂，提供各种美味食谱、逐步说明和视频，帮助您制作您最喜爱的甜点。从奶油冰淇淋到诱人的糕点，<b>Sweet Scoops</b> 应有尽有，满足您对甜点的所有渴望。释放您内心的糕点大厨，让自己享受美味的甜点体验。",
                         "tags": ["应用", "食物", "甜点", "食谱"]
+                    }
+                }
+            }
+        ],
+        "System Admin" : [
+            {
+                "id": "installreseau",
+                "title": " Installation de services réseau",
+                "logoUrl": "images/portfolio/server.png",
+                "links": [            
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Dans ce projet réalisé en binôme, nous avons configuré une distribution Linux (OpenSuse) pour déployer un serveur HTTP (Apache) afin d'héberger des sites web. Nous avons également installé et configuré une base de données (MySQL) pour gérer les données du site. En utilisant PHP, nous avons implémenté un système pour enregistrer les adresses IP et les horaires de connexion des utilisateurs. Enfin, nous avons automatisé la génération des logins et mots de passe à partir d'un fichier Excel, en associant chaque utilisateur à un groupe approprié via un script personnalisé. Ce projet m'a permis de développer mes compétences en administration système, en gestion de bases de données et en travail collaboratif.",
+                        "tags": ["Administrer des systèmes informatiques communicants complexes", "Travailler dans une équipe informatique"]
+                    },
+                    "es": {
+                        "description": "<b>SmartCash</b> es tu compañero inteligente para las finanzas personales, permitiéndote tomar el control de tu dinero sin esfuerzo. Con su interfaz fácil de usar, SmartCash proporciona un seguimiento en tiempo real de tus gastos e ingresos, lo que te permite identificar patrones de gasto y tomar decisiones financieras informadas. Mantente al tanto de tu presupuesto, ya que SmartCash ofrece recomendaciones personalizadas para ahorrar dinero y alcanzar tus objetivos financieros sin comprometer tu estilo de vida.",
+                        "tags": ["aplicación", "finanzas", "dinero"]
+                    },
+                    "fr": {
+                        "description": "<b>SmartCash</b> est votre compagnon intelligent pour les finances personnelles, vous permettant de prendre le contrôle de votre argent sans effort. Avec son interface conviviale, SmartCash offre un suivi en temps réel de vos dépenses et de vos revenus, vous permettant d'identifier les habitudes de dépenses et de prendre des décisions financières éclairées. Restez maître de votre budget, car SmartCash propose des recommandations personnalisées pour économiser de l'argent et atteindre vos objectifs financiers sans compromettre votre style de vie.",
+                        "tags": ["Application", "Java","UML"]
+                    },
+                    "zh": {
+                        "description": "<b>SmartCash</b> 是您在个人财务方面的智能伴侣，使您轻松掌控您的资金。凭借其用户友好的界面，SmartCash 实时跟踪您的支出和收入，使您能够识别支出模式并做出明智的财务决策。通过提供个性化建议来节省金钱并实现您的财务目标，SmartCash 使您的预算始终保持在掌握之中。",
+                        "tags": ["应用", "财务", "金钱", "预算"]
                     }
                 }
             }
