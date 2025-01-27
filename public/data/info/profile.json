@@ -50,6 +50,13 @@
             "href": "https://github.com/AymenCharouki"
         },
 
+        "cv": {
+            "id": "cv",
+            "value": "Télécharger CV",
+            "valueShort": "Télécharger CV",
+            "faIcon": "fa-solid fa-file",
+            "href": "https://drive.google.com/file/d/16zju9Xt0JtKfU8fhUmW9JXpCGrA6TOGH/view?usp=drive_link"
+        },
 
         "linkedin": {
             "id": "linkedin",

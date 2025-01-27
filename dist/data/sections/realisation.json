@@ -72,6 +72,7 @@
                 "title": "Site Web portfolio",
                 "logoUrl": "images/portfolio/ppp.png",
                 "links": [
+                    {"faIcon": "fa-solid fa-user-tie", "href": "https://aymencharouki.github.io/Site-PortFolio/", "id": "Site Web PortFolio"}
                 ],
                 "locales": {
                     "en": {
@@ -91,15 +92,67 @@
                         "tags": ["应用", "电子邮件", "通讯", "生产力"]
                     }
                 }
+            },
+            {
+                "id": "bricoleuses",
+                "title": "Cie les Bricoleuses",
+                "logoUrl": "images/portfolio/logo-bricoleuses.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-hands-holding-child", "href": "https://lesbricoleuses.org", "id": "Cie Les Bricoleuses"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "La Cie les Bricoleuses est une association dédiée aux enfants, proposant des ateliers et spectacles ludiques et éducatifs qui mêlent théâtre, musique et créativité. Leur objectif est d'éveiller l'imagination des enfants et de leur offrir un espace d'expression artistique à travers des activités interactives et amusantes.\nDans le cadre de ce projet, j'ai eu l'opportunité de créer et déployer leur site web, conçu pour être coloré, intuitif et adapté aux familles. En tant que Scrum Master, j'ai piloté le projet en appliquant la méthodologie Agile, en organisant les sprints, en facilitant la communication au sein de l'équipe et en m'assurant que les objectifs étaient atteints dans les délais. Ce projet m'a permis de développer mes compétences en gestion de projet, en développement web et en collaboration, tout en contribuant à la visibilité d'une association qui fait rêver les enfants.",
+                        "tags": ["VueJS", "Client réel", "PortFolio","Django"]
+                    },
+                    "es": {
+                        "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+                        "tags": ["aplicación", "correo electrónico", "comunicación", "productividad"]
+                    },
+                    "fr": {
+                        "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+                        "tags": ["application", "courrier électronique", "communication", "productivité"]
+                    },
+                    "zh": {
+                        "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+                        "tags": ["应用", "电子邮件", "通讯", "生产力"]
+                    }
+                }
+            },
+            {
+                "id": "irit",
+                "title": "IRIT LocURA",
+                "logoUrl": "images/portfolio/logoirit.png",
+                "links": [
+                    {"faIcon": "fa-solid fa-hands-holding-child", "href": "https://github.com/IUT-Blagnac/SAE-ALT-S3-Dev-23-24-LocURa-Equipe-3A04", "id": "Cie Les Bricoleuses"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Le projet IRIT LocURA consiste en une salle avancée équipée de petits capteurs mobiles qui collectent des données en temps réel. Mon rôle a été de développer une interface web en HTML et JavaScript pour visualiser et analyser les mouvements des capteurs ainsi que d'autres données critiques. J'ai implémenté des fonctionnalités en temps réel pour afficher les données dynamiquement et permettre une interaction fluide avec l'utilisateur. Ce projet m'a permis de renforcer mes compétences en développement front-end, en manipulation de données en temps réel et en création d'interfaces utilisateur réactives.",
+                        "tags": ["JAVASCRIPT", "Recherche", "PortFolio","HTML","CSS"]
+                    },
+                    "es": {
+                        "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+                        "tags": ["aplicación", "correo electrónico", "comunicación", "productividad"]
+                    },
+                    "fr": {
+                        "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+                        "tags": ["application", "courrier électronique", "communication", "productivité"]
+                    },
+                    "zh": {
+                        "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+                        "tags": ["应用", "电子邮件", "通讯", "生产力"]
+                    }
+                }
             }
         ],
-
         "Applications": [
             {
                 "id": "DailyBank",
                 "title": "DailyBank",
                 "logoUrl": "images/portfolio/logobank.png",
-                "links": [                   
+                "links": [            
+                    {"faIcon": "fa-brands fa-github", "href": "https://github.com/IUT-Blagnac/sae2023-bank-g2a3", "id": "Dépot GitHub DailyBank"}       
                 ],
                 "locales": {
                     "en": {
@@ -184,6 +237,32 @@
                     "en": {
                         "description": "Grâce à cette application, les Field Service Engineers (FSE) peuvent désormais appliquer des mises à jour de manière rapide et fiable, tout en adaptant les configurations spécifiques à chaque environnement client. Ce projet a mis en avant mes compétences en automatisation, gestion de systèmes et développement d'outils métier sur mesure.",
                         "tags": ["Application", "Entreprise", "Csharp", "Scripts"]
+                    },
+                    "es": {
+                        "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
+                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                    },
+                    "fr": {
+                        "description": "Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
+                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                    },
+                    "zh": {
+                        "description": "在<b>Sweet Scoops</b> 的美味甜品世界中尽情享受吧！这款应用是甜品爱好者的天堂，提供各种美味食谱、逐步说明和视频，帮助您制作您最喜爱的甜点。从奶油冰淇淋到诱人的糕点，<b>Sweet Scoops</b> 应有尽有，满足您对甜点的所有渴望。释放您内心的糕点大厨，让自己享受美味的甜点体验。",
+                        "tags": ["应用", "食物", "甜点", "食谱"]
+                    }
+                }
+            } ,
+
+            {
+                "id": "flappybird",
+                "title": "Flappy Bird",
+                "logoUrl": "images/portfolio/logo-flappy.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Dans ce projet, j'ai recréé le célèbre jeu Flappy Bird en utilisant le moteur de jeu Unity. J'ai implémenté les mécaniques de base du jeu, comme le contrôle de l'oiseau, la génération aléatoire des obstacles et la gestion du score. J'ai également ajouté des fonctionnalités supplémentaires, comme un système de sauvegarde des meilleurs scores et des effets visuels pour améliorer l'expérience utilisateur. Ce projet m'a permis de développer mes compétences en programmation C#, en conception de jeux vidéo et en optimisation des performances. Une expérience ludique et enrichissante qui m'a permis de mieux comprendre les défis du développement de jeux.",
+                        "tags": ["Unity", "Jeu Vidéo", "Csharp", "Modeling"]
                     },
                     "es": {
                         "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",

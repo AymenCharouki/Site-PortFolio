@@ -53,6 +53,18 @@
                 "en": {"title": "Langues"},
                 "zh": {"title": "语言"}
             }
+        },
+        {
+            "id": "extra",
+            "type": "grid",
+            "progress": null,
+            "faIcon": "fa fa-marker",
+            "locales": {
+                "en": {"title": "Compétences BUT"},
+                "es": {"title": "Habilidades Adicionales"},
+                "fr": {"title": "Plus Habiletés"},
+                "zh": {"title": "附加技能"}
+            }
         }
 
     ],
@@ -344,7 +356,7 @@
                 "faIcon": "fa-brands fa-php",
                 "value": 75,
                 "locales": {
-                    "en": {"title": "PHP", "description": "Expérience time: 2 ans"},
+                    "en": {"title": "PHP", "description": "Expérience : 2 ans"},
                     "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
                     "fr": {"title": "React", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
                     "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
@@ -356,7 +368,7 @@
                 "faIcon": "fa-brands fa-docker",
                 "value": 70,
                 "locales": {
-                    "en": {"title": "Docker", "description": "Expérience time: 2 ans"},
+                    "en": {"title": "Docker", "description": "Expérience : 2 ans"},
                     "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
                     "fr": {"title": "React", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
                     "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
@@ -368,7 +380,7 @@
                 "faIcon": "fa-solid fa-dollar-sign",
                 "value": 65,
                 "locales": {
-                    "en": {"title": "Bash", "description": "Expérience time: 3 ans"},
+                    "en": {"title": "Bash", "description": "Expérience : 3 ans"},
                     "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
                     "fr": {"title": "React", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
                     "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
@@ -380,13 +392,79 @@
                 "faIcon": "fa-solid fa-diagram-project",
                 "value": 75,
                 "locales": {
-                    "en": {"title": "UML", "description": "Expérience time: 3 ans"},
+                    "en": {"title": "UML", "description": "Expérience : 3 ans"},
                     "es": {"title": "React", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
                     "fr": {"title": "React", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
                     "zh": {"title": "React", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}
                 }
             }
         ],
+        "extra": [
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-desktop",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Réaliser un développement d'application", "description": "Concevoir, développer et déployer des applications robustes et fonctionnelles, en utilisant des langages de programmation modernes et des frameworks adaptés aux besoins des utilisateurs."},
+                    "es": {"title": "Diseño de Interfaz de Usuario (UI)", "description": "Capaz de diseñar interfaces de usuario intuitivas y visualmente atractivas para interacciones de usuario fluidas."},
+                    "fr": {"title": "Design d'Interface Utilisateur (UI)", "description": "Capable de concevoir des interfaces utilisateur intuitives et visuellement attrayantes pour des interactions utilisateur fluides."},
+                    "zh": {"title": "用户界面（UI）设计", "description": "能够设计直观且视觉吸引力强的用户界面，以实现无缝用户交互。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-bolt",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Optimiser des applications informatiques", "description": "Améliorer les performances, la sécurité et l'expérience utilisateur des applications en identifiant et en résolvant les goulots d'étranglement, tout en respectant les bonnes pratiques de développement."},
+                    "es": {"title": "Desarrollo Front-End", "description": "Capaz de codificar en VueJS, AngularJS y TypeScript."},
+                    "fr": {"title": "Développement Front-End", "description": "Capable de coder en VueJS, AngularJS et TypeScript."},
+                    "zh": {"title": "前端开发", "description": "能够编写VueJS、AngularJS和TypeScript代码。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-brands fa-linux",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Administrer des systèmes informatiques communicants complexes", "description": "Configurer, maintenir et sécuriser des infrastructures réseau et des systèmes informatiques, en assurant leur disponibilité et leur fiabilité pour répondre aux besoins des utilisateurs."},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-database",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Gérer des données de l'information", "description": "Collecter, stocker, organiser et analyser des données de manière efficace, en utilisant des bases de données et des outils d'analyse pour en extraire des informations pertinentes."},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            },
+            {
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-user-gear",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Conduire un projet", "description": "Planifier, organiser et piloter des projets informatiques de A à Z, en respectant les délais, les budgets et les objectifs fixés, tout en assurant une communication fluide avec les parties prenantes."},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            },{
+                "imageIconUrl": null,
+                "faIcon": "fa-solid fa-users-gear",
+                "value": null,
+                "locales": {
+                    "en": {"title": "Travailler dans une équipe informatique", "description": "Collaborer efficacement au sein d'une équipe pluridisciplinaire, en partageant des idées, en résolvant des problèmes ensemble et en contribuant à la réussite collective des projets."},
+                    "es": {"title": "Visualización de Información", "description": "Capaz de transformar datos complejos en visuales claros."},
+                    "fr": {"title": "Visualisation de l'Information", "description": "Capable de transformer des données complexes en visuels clairs."},
+                    "zh": {"title": "信息可视化", "description": "能够将复杂的数据转化为清晰的可视化图表。"}
+                }
+            }],
 
         "languages": [
             {
