@@ -1,0 +1,205 @@
+{
+    "locales": {
+        "fr": {
+            "title": "My <span class='text-primary'>Portfolio</span>",
+            "description": "Explore a selection of my recent projects and creative works."
+        },
+        "es": {
+            "title": "Mi <span class='text-primary'>Portafolio</span>",
+            "description": "Explora una selección de mis proyectos recientes y trabajos creativos."
+        },
+        "en": {
+            "title": "Mes <span class='text-primary'>Réalisations</span>",
+            "description": "Découvrez une sélection de mes projets récents et œuvres créatives."
+        },
+        "zh": {
+            "title": "我的<span class='text-primary'>作品集</span>",
+            "description": "浏览我最近的一些项目和创意作品。"
+        }
+    },
+
+    "subcategories": [
+        {
+            "id": "Site Web",
+            "locales": {
+                "en": {"title": "Site Web"},
+                "es": {"title": "Productividad"},
+                "fr": {"title": "Productivité"},
+                "zh": {"title": "生产力"}
+            }
+        },
+        {
+            "id": "Applications",
+            "locales": {
+                "en": {"title": "Applications"},
+                "es": {"title": "Utilidades"},
+                "fr": {"title": "Utilitaires"},
+                "zh": {"title": "工具"}
+            }
+        }
+    ],
+
+    "items": {
+        "Site Web": [
+            {
+                "id": "symfony",
+                "title": "Site Web en Symfony",
+                "logoUrl": "images/portfolio/logojo.png",
+                "links": [
+                    {"faIcon": "fa-brands fa-symfony", "href": "http://193.54.227.208/~PHP3035/symfony/public/JO", "id": "Site Web Symfony"}
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Dans le cadre de mon projet à l'IUT, j'ai développé un site web dynamique en Symfony pour simuler la gestion des athlètes, disciplines et des pays des Jeux Olympiques. Ce projet m'a permis de maîtriser les concepts de MVC, de gestion de bases de données et de création d'interfaces utilisateur interactives. J'ai également implémenté des fonctionnalités clés comme l'authentification des utilisateurs et la mise à jour en temps réel des résultats. Ce projet a renforcé mes compétences en développement back-end.",
+                        "tags": ["Web", "Symfony"]
+                    },
+                    "es": {
+                        "description": "<b>BrainPulse</b> es tu aplicación definitiva de productividad, que te ayuda a gestionar tareas, organizar tu horario y aumentar tu concentración. Con su interfaz elegante y moderna, BrainPulse ofrece funciones como listas de tareas, recordatorios, seguimiento de objetivos y métricas de productividad personalizables. Ya seas un estudiante, un profesional o cualquier persona que busque optimizar su tiempo y eficiencia, BrainPulse es tu aplicación indispensable para lograr más sin sacrificar el equilibrio entre el trabajo y la vida personal.",
+                        "tags": ["aplicación", "productividad", "tareas", "concentración"]
+                    },
+                    "fr": {
+                        "description": "<b>BrainPulse</b> est votre application ultime de productivité, vous aidant à gérer les tâches, organiser votre emploi du temps et améliorer votre concentration. Avec son interface élégante et moderne, BrainPulse propose des fonctionnalités telles que des listes de tâches, des rappels, un suivi des objectifs et des mesures de productivité personnalisables. Que vous soyez étudiant, professionnel ou toute personne cherchant à optimiser son temps et son efficacité, BrainPulse est votre application incontournable pour en faire plus tout en maintenant un équilibre entre travail et vie personnelle.",
+                        "tags": ["application", "productivité", "tâches", "concentration"]
+                    },
+                    "zh": {
+                        "description": "<b>BrainPulse</b> 是您的终极生产力应用，可帮助您管理任务，组织日程并增强专注力。凭借其时尚现代的界面，BrainPulse 提供任务列表、提醒、目标跟踪和可定制的生产力指标等功能。无论您是学生、专业人士还是任何希望优化时间和效率的人，BrainPulse 都是您不可或缺的应用程序，助您在保持工作与生活平衡的同时实现更多成就。",
+                        "tags": ["应用", "生产力", "任务", "专注力"]
+                    }
+                }
+            },
+            {
+                "id": "ppp",
+                "title": "Site Web portfolio",
+                "logoUrl": "images/portfolio/ppp.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "J'ai conçu et développé ce site web portfolio pour présenter mes projets, compétences et expériences de manière claire et moderne. Construit avec Vue.js pour une interface dynamique et réactive, le site met en avant mon travail à travers une navigation intuitive et un design épuré.",
+                        "tags": ["VueJS", "Communication", "PortFolio","JAVASCRIPT"]
+                    },
+                    "es": {
+                        "description": "<b>MailM8</b> es tu compañero de correo electrónico inteligente, revolucionando la forma en que gestionas e interactúas con tu bandeja de entrada. Con funciones avanzadas impulsadas por inteligencia artificial, <b>MailM8</b> te ayuda a organizar tu correo electrónico, priorizar mensajes importantes y componer respuestas inteligentes con facilidad. Di adiós a la abrumadora bandeja de entrada y dale la bienvenida a una experiencia de comunicación más eficiente y organizada con <b>MailM8</b>.",
+                        "tags": ["aplicación", "correo electrónico", "comunicación", "productividad"]
+                    },
+                    "fr": {
+                        "description": "<b>MailM8</b> est votre compagnon de messagerie intelligent, révolutionnant la manière dont vous gérez et interagissez avec votre boîte de réception. Avec des fonctionnalités avancées alimentées par l'IA, <b>MailM8</b> vous aide à désencombrer votre boîte de réception, à prioriser les messages importants et à composer des réponses intelligentes en un clin d'œil. Dites adieu à la surcharge de courrier électronique et bonjour à une expérience de communication plus efficace et organisée avec <b>MailM8</b>.",
+                        "tags": ["application", "courrier électronique", "communication", "productivité"]
+                    },
+                    "zh": {
+                        "description": "<b>MailM8</b> 是您的智能电子邮件伙伴，彻底改变了您管理和与收件箱互动的方式。通过先进的人工智能功能，<b>MailM8</b> 帮助您整理电子邮件，优先处理重要消息，并轻松撰写智能回复。告别电子邮件的压倒性情况，拥抱更高效和有组织的沟通体验，与 <b>MailM8</b> 一同打个招呼。",
+                        "tags": ["应用", "电子邮件", "通讯", "生产力"]
+                    }
+                }
+            }
+        ],
+
+        "Applications": [
+            {
+                "id": "DailyBank",
+                "title": "DailyBank",
+                "logoUrl": "images/portfolio/logobank.png",
+                "links": [                   
+                ],
+                "locales": {
+                    "en": {
+                        "description": "J'ai développé au sein d'une équipeune application simulant les fonctionnalités d'une banque, incluant la gestion des clients (CRUD), la création de comptes, les transactions financières et la génération de relevés.",
+                        "tags": ["Application", "Java","JavaFX"]
+                    },
+                    "es": {
+                        "description": "<b>SmartCash</b> es tu compañero inteligente para las finanzas personales, permitiéndote tomar el control de tu dinero sin esfuerzo. Con su interfaz fácil de usar, SmartCash proporciona un seguimiento en tiempo real de tus gastos e ingresos, lo que te permite identificar patrones de gasto y tomar decisiones financieras informadas. Mantente al tanto de tu presupuesto, ya que SmartCash ofrece recomendaciones personalizadas para ahorrar dinero y alcanzar tus objetivos financieros sin comprometer tu estilo de vida.",
+                        "tags": ["aplicación", "finanzas", "dinero"]
+                    },
+                    "fr": {
+                        "description": "<b>SmartCash</b> est votre compagnon intelligent pour les finances personnelles, vous permettant de prendre le contrôle de votre argent sans effort. Avec son interface conviviale, SmartCash offre un suivi en temps réel de vos dépenses et de vos revenus, vous permettant d'identifier les habitudes de dépenses et de prendre des décisions financières éclairées. Restez maître de votre budget, car SmartCash propose des recommandations personnalisées pour économiser de l'argent et atteindre vos objectifs financiers sans compromettre votre style de vie.",
+                        "tags": ["Application", "Java","UML"]
+                    },
+                    "zh": {
+                        "description": "<b>SmartCash</b> 是您在个人财务方面的智能伴侣，使您轻松掌控您的资金。凭借其用户友好的界面，SmartCash 实时跟踪您的支出和收入，使您能够识别支出模式并做出明智的财务决策。通过提供个性化建议来节省金钱并实现您的财务目标，SmartCash 使您的预算始终保持在掌握之中。",
+                        "tags": ["应用", "财务", "金钱", "预算"]
+                    }
+                }
+            },
+
+            {
+                "id": "arbitrage",
+                "title": "Application d'arbitrage",
+                "logoUrl": "images/portfolio/arbitrage.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "J'ai conçu et développé une application dédiée à la gestion des arbitrages lors de compétitions de canoë. Cette application permet de suivre les performances des athlètes, enregistrer les résultats en temps réel et générer des classements automatiques.",
+                        "tags": ["Application", "Java","UML"]
+                    },
+                    "es": {
+                        "description": "<b>Snappy</b> es tu aplicación definitiva de fotografía, que te permite capturar y editar imágenes impresionantes sin esfuerzo. Con su interfaz intuitiva, Snappy ofrece una amplia gama de herramientas y filtros poderosos para mejorar tus fotos y potenciar tu creatividad. Ya seas un fotógrafo profesional o simplemente un aficionado, Snappy ofrece funciones como controles manuales, opciones de edición avanzadas y mejoras impulsadas por inteligencia artificial para llevar tu fotografía al siguiente nivel.",
+                        "tags": ["aplicación", "fotografía", "cámara"]
+                    },
+                    "fr": {
+                        "description": "<b>Snappy</b> est votre application ultime de photographie, vous permettant de capturer et d'éditer des images époustouflantes sans effort. Avec son interface intuitive, Snappy propose une large gamme d'outils puissants et de filtres pour améliorer vos photos et stimuler votre créativité. Que vous soyez un photographe professionnel ou simplement un amateur, Snappy offre des fonctionnalités telles que les commandes manuelles, les options d'édition avancées et les améliorations alimentées par l'IA pour pousser votre photographie à un niveau supérieur.",
+                        "tags": ["application", "photographie"]
+                    },
+                    "zh": {
+                        "description": "<b>Snappy</b> 是您的终极摄影应用，可轻松捕捉和编辑令人惊叹的图像。借助其直观的界面，Snappy 提供了各种强大的工具和滤镜，可增强您的照片并释放您的创造力。无论您是专业摄影师还是业余爱好者，Snappy 都提供诸如手动控制、高级编辑选项和基于人工智能的增强功能，将您的摄影推向新的高度。",
+                        "tags": ["应用", "摄影", "相机"]
+                    }
+                }
+            },
+
+            {
+                "id": "passerelle",
+                "title": "Passerelle",
+                "logoUrl": "images/portfolio/passerelle.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Dans le cadre de ce projet en entreprise, j'ai conçu et développé une application qui centralise les commandes clients et les stocke dans une base de données. L'application génère également des fichiers de configuration pour les robots, permettant une intégration fluide entre les systèmes de gestion des commandes et les équipements automatisés. ",
+                        "tags": ["Application", "Csharp", "MySQL", "Excel"]
+                    },
+                    "es": {
+                        "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
+                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                    },
+                    "fr": {
+                        "description": "Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
+                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                    },
+                    "zh": {
+                        "description": "在<b>Sweet Scoops</b> 的美味甜品世界中尽情享受吧！这款应用是甜品爱好者的天堂，提供各种美味食谱、逐步说明和视频，帮助您制作您最喜爱的甜点。从奶油冰淇淋到诱人的糕点，<b>Sweet Scoops</b> 应有尽有，满足您对甜点的所有渴望。释放您内心的糕点大厨，让自己享受美味的甜点体验。",
+                        "tags": ["应用", "食物", "甜点", "食谱"]
+                    }
+                }
+            }
+            ,
+
+            {
+                "id": "patchmanager",
+                "title": "PatchManager",
+                "logoUrl": "images/portfolio/patchmanager.png",
+                "links": [
+                ],
+                "locales": {
+                    "en": {
+                        "description": "Grâce à cette application, les Field Service Engineers (FSE) peuvent désormais appliquer des mises à jour de manière rapide et fiable, tout en adaptant les configurations spécifiques à chaque environnement client. Ce projet a mis en avant mes compétences en automatisation, gestion de systèmes et développement d'outils métier sur mesure.",
+                        "tags": ["Application", "Entreprise", "Csharp", "Scripts"]
+                    },
+                    "es": {
+                        "description": "¡Déjate llevar al mundo de los postres deliciosos con <b>Sweet Scoops</b>! Esta aplicación es el paraíso de los amantes de los postres, ofreciendo una amplia gama de recetas deliciosas, instrucciones paso a paso y videos para crear tus dulces favoritos. Desde cremosos helados hasta irresistibles pasteles, <b>Sweet Scoops</b> tiene todo lo que necesitas para satisfacer tus antojos de postres. Libera al chef de repostería que llevas dentro y date un caprichoso y delicioso experiencia de postre.",
+                        "tags": ["aplicación", "comida", "postres", "recetas"]
+                    },
+                    "fr": {
+                        "description": "Indulgez-vous dans le monde des desserts délectables avec <b>Sweet Scoops</b> ! Cette application est le paradis des amateurs de desserts, offrant une large gamme de recettes alléchantes, d'instructions étape par étape et de vidéos pour créer vos douceurs préférées. Des glaces crémeuses aux pâtisseries irrésistibles, <b>Sweet Scoops</b> vous couvre pour toutes vos envies de dessert. Libérez le chef pâtissier qui sommeille en vous et offrez-vous une délicieuse expérience de dessert.",
+                        "tags": ["application", "nourriture", "desserts", "recettes"]
+                    },
+                    "zh": {
+                        "description": "在<b>Sweet Scoops</b> 的美味甜品世界中尽情享受吧！这款应用是甜品爱好者的天堂，提供各种美味食谱、逐步说明和视频，帮助您制作您最喜爱的甜点。从奶油冰淇淋到诱人的糕点，<b>Sweet Scoops</b> 应有尽有，满足您对甜点的所有渴望。释放您内心的糕点大厨，让自己享受美味的甜点体验。",
+                        "tags": ["应用", "食物", "甜点", "食谱"]
+                    }
+                }
+            }
+        ]
+
+    }
+}

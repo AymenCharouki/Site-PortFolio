@@ -1,9 +1,9 @@
 {
     "locales": {
         "en": {
-            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
-            "welcomeShort": "Welcome!",
-            "bio": "With 8 years as a UX designer, I excel in user-centric interfaces. My passion for empathetic design drives me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
+            "welcome": "Bienvenue sur mon <span class='text-primary'>site PortFolio</span>!",
+            "welcomeShort": "Bienvenue",
+            "bio": "Avec 3 ans d'expérience en tant que développeur, je maîtrise la conception et le développement de solutions techniques robustes et efficaces. Ma passion pour la résolution de problèmes et mon esprit analytique me poussent à créer des systèmes innovants et performants."
         },
 
         "es": {
@@ -27,8 +27,6 @@
 
     "items": {
         "socialCircles": [
-            "@link{profile.contact.instagram}",
-            "@link{profile.contact.facebook}",
             "@link{profile.contact.linkedin}",
             "@link{profile.contact.github}"
         ],
