@@ -1,9 +1,9 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+    "recif": {
+        "logoUrl": "images/places/recif.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "RECIF Technologies"}
         }
     },
 

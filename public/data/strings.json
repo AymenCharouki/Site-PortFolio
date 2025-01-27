@@ -37,8 +37,8 @@
             "skills": "Compétences",
             "subject": "Sujet",
             "tags": "Étiquettes",
-            "whereToFind": "Où le Trouver",
-            "whereToFindDescription": "${project} est disponible sur les plateformes et services suivants:"
+            "whereToFind": "",
+            "whereToFindDescription": ""
         },
 
 
