@@ -14,9 +14,7 @@
         },
         "en": {
             "title": "<span class='text-primary'>Contactez</span>-moi",
-            "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!",
-            "subtitle": "Ou...",
-            "subtitleDescription": "Si vous préférez, vous pouvez me contacter grâce aux options suivantes:"
+            "description": "N'hésitez pas à me contacter chaque fois que vous en avez besoin!"
         },
         "zh": {
             "title": "<span class='text-primary'>联系</span>我",
