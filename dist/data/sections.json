@@ -40,19 +40,19 @@
         },
 
         {
-            "id": "skills",
-            "categoryId": "showcase",
-            "component": "InfoSection",
-            "jsonPath": "data/sections/competences.json",
-            "faIcon": "fa-solid fa-tools"
-        },
-
-        {
             "id": "experience",
             "categoryId": "background",
             "component": "TimelineSection",
             "jsonPath": "data/sections/experience.json",
             "faIcon": "fa-solid fa-briefcase"
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "component": "InfoSection",
+            "jsonPath": "data/sections/competences.json",
+            "faIcon": "fa-solid fa-tools"
         },
 
         {
